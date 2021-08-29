@@ -33,25 +33,22 @@ Quality Analyst @Xendit. Testing, Debugging and Repeat.
 
 <br />
 
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+## Github Stats
   
  <a href="https://github.com/akashverma24"><img width="400" src="https://github-readme-stats-six-smoky-95.vercel.app/api?username=akashverma24&cache_seconds=86400&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox">
   <a href="https://github.com/akashverma24"><img width="400" src="https://github-readme-stats-six-smoky-95.vercel.app/api/top-langs/?username=akashverma24&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
   <a href="https://github.com/akashverma24"><img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=akashverma24&theme=dark&background=282828&stroke=fe8019&ring=fe8019&currStreakNum=fabd2f&currStreakLabel=fabd2f&dates=FEE6F4&fire=FE84C3" alt="GitHub stats"/>
-</details>
+</p>
   
-<details>
-  <summary>:zap: My Repos</summary>
-  
+
+## My Repos  
 <p align="left">
   
    <a href="https://github.com/akashverma24/RestAPIFramework"><img width="400" src="https://github-readme-stats-six-smoky-95.vercel.app/api/pin/?username=akashverma24&repo=RestAPIFramework&langs_count=5&theme=gruvbox">
   <a href="https://github.com/akashverma24/web-cucumber-framework"><img width="400" src="https://github-readme-stats-six-smoky-95.vercel.app/api/pin/?username=akashverma24&card_height=300&&repo=web-cucumber-framework&langs_count=5&layout=compact&theme=gruvbox">
 
 </p>  
-</details>
 
 [instagram]: https://www.instagram.com/akash.verma24/
 [linkedin]: https://www.linkedin.com/in/akash-verma-28163499/
