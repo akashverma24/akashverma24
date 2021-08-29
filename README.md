@@ -10,13 +10,6 @@ Quality Analyst @Xendit. Testing, Debugging and Repeat.
 -   🤔  I’m looking for help on Algorithmic Trading and backtesting
 
 
-###  📫 Connect with me:
-
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/akash-verma-28163499/)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:akash2492@outlook.com)
-
-</br>
-
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -50,8 +43,22 @@ Quality Analyst @Xendit. Testing, Debugging and Repeat.
 
 </p>  
 
-###Spotify Playing
-[<img src="https://novatorem-indol-nine.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31a4f2q6fr7lb3ed5zrtk32hcb64)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://sp-delta.vercel.app//api/spotify)](https://open.spotify.com/user/31a4f2q6fr7lb3ed5zrtk32hcb64)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">Everything here is available under the [MIT Licence](https://opensource.org/licenses/MIT)!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/akash-verma-28163499/)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/CshSaoTy)
+</p>
+  </td>
+  </table>
+
 
 [instagram]: https://www.instagram.com/akash.verma24/
 [linkedin]: https://www.linkedin.com/in/akash-verma-28163499/
