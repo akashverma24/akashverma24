@@ -12,9 +12,9 @@ Quality Analyst @Xendit. Testing, Debugging and Repeat.
 
 ###  📫 Connect with me:
 
-[<img align="left" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][Outlook]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/akash-verma-28163499/)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:akash2492@outlook.com)
+
 </br>
 
 ### Languages and Tools:
@@ -49,6 +49,8 @@ Quality Analyst @Xendit. Testing, Debugging and Repeat.
   <a href="https://github.com/akashverma24/web-cucumber-framework"><img width="400" src="https://github-readme-stats-six-smoky-95.vercel.app/api/pin/?username=akashverma24&card_height=300&&repo=web-cucumber-framework&langs_count=5&layout=compact&theme=gruvbox">
 
 </p>  
+
+[![Spotify](https://novatorem-indol-nine.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-indol-nine)
 
 [instagram]: https://www.instagram.com/akash.verma24/
 [linkedin]: https://www.linkedin.com/in/akash-verma-28163499/
