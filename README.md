@@ -41,7 +41,9 @@ Quality Analyst @Xendit. Testing, Debugging and Repeat.
    <a href="https://github.com/akashverma24/RestAPIFramework"><img width="400" src="https://github-readme-stats-six-smoky-95.vercel.app/api/pin/?username=akashverma24&repo=RestAPIFramework&langs_count=5&theme=gruvbox">
   <a href="https://github.com/akashverma24/web-cucumber-framework"><img width="400" src="https://github-readme-stats-six-smoky-95.vercel.app/api/pin/?username=akashverma24&card_height=300&&repo=web-cucumber-framework&langs_count=5&layout=compact&theme=gruvbox">
 
-</p>  
+</p>
+
+## Spotify Playing :headphones:
 
 <table width="100%"> 
   <tr>
