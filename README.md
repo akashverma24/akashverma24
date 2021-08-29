@@ -50,7 +50,8 @@ Quality Analyst @Xendit. Testing, Debugging and Repeat.
 
 </p>  
 
-[![Spotify](https://novatorem-indol-nine.vercel.app/api/spotify)](https://open.spotify.com/user/novatorem-indol-nine)
+###Spotify Playing
+[<img src="https://novatorem-indol-nine.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31a4f2q6fr7lb3ed5zrtk32hcb64)
 
 [instagram]: https://www.instagram.com/akash.verma24/
 [linkedin]: https://www.linkedin.com/in/akash-verma-28163499/
